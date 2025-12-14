@@ -1,0 +1,10 @@
+
+.reveal {
+    font-family: 'Garamond', sans-serif;
+}
+
+.reveal h1, .reveal h2, .reveal h3 {
+    font-family: 'Georgia', serif;
+    font-size: 30pt;
+}
+
